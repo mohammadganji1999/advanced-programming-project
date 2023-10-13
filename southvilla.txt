@@ -1,0 +1,2 @@
+148	36	36	78	C:/Users/ganji/Desktop/Image/a.jpg	12	s	0	0	0	0	44
+1459	456	456	5	C:/Users/ganji/Desktop/Image/b.jpg	123	s	0	0	0	0	44

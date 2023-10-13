@@ -1,0 +1,6 @@
+North	Cash	1.79515e+006	880	s	44	user20
+North	Cash	34971.7	437	s	44	user20
+South	Cash	209814	2371	s	44	user20
+South	Cash	2019.66	220	s	44	user20
+Apartment	Cash	890.003	24	s	44	user20
+Apartment	Cash	301144	242	su	44	user20

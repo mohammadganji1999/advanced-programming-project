@@ -1,0 +1,2 @@
+800	35	45	6	C:/Users/ganji/Desktop/Image/c.jpg	2143	s	0	0	0	0	44
+156	156	125	2	C:/Users/ganji/Desktop/Image/e.jpg	154	s	0	0	0	0	44
